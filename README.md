@@ -1,4 +1,4 @@
-# Project Structure: Project #1
+# Project Structure: Project #2
 
 ## David Fowler
 I believe David Fowler has a great template of how this shoudl be set up.
